@@ -1,4 +1,4 @@
-module my.domain/guestbook
+module  github.com/jiaxin-ge/kubebuilder-experiment
 
 go 1.16
 
